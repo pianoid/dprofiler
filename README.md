@@ -21,6 +21,8 @@ goal
 
 8, the report can be re-analyzed with more accurate symbols anytime.
 
+9, dynamic attach to and detach from target without code re-compiling,
+   only pdb are required to parse report.
 
 
 features
@@ -59,4 +61,4 @@ open dprofiler.sln, rebuild solution. VS 2012 with update 4
 
 usage
 ======
-see cpudemo.swf, mmdemo.swf.
+checkout gallery/*.png for snapshots and see cpudemo.swf, mmdemo.swf.
